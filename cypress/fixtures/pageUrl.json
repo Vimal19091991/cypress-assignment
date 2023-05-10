@@ -1,0 +1,29 @@
+
+
+{
+    "demoqaUrlAlerts":"https://demoqa.com/alerts",
+    "fileUploadWebDriver":"https://webdriveruniversity.com/File-Upload/index.html",
+    "fileUploadAutoPract":"https://autopract.com/home/fashion",
+    "iframeWebDriver":"https://webdriveruniversity.com/IFrame/index.html",
+    "assertionsUrls":"https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+    "customCommandUrl":"https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+    "originUrl":"https://demoqa.com/alerts",
+    "origin1Url":"https://webdriveruniversity.com/File-Upload/index.html",
+    "mouseActionsUrl":"https://www.flipkart.com/",
+    "mouseActionUrl2":"https://demoqa.com/buttons",
+    "keyboardActionUrl":"https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+    "datePickerUrl":"https://demoqa.com/date-picker", 
+    "radioButtonUrl":"https://demoqa.com/radio-button",
+    "checkBoxUrl":"https://demoqa.com/checkbox",
+    "dropDownUrl":"https://webdriveruniversity.com/Dropdown-Checkboxes-RadioButtons/index.html",
+    "dragDropUrl":"https://webdriveruniversity.com/Actions/index.html",
+    "navigationUrl":"https://demoqa.com/",
+    "webTablesUrl":"https://webdriveruniversity.com/Data-Table/index.html",
+    "sliderUrl":"https://demoqa.com/slider",
+    "dynamicDropDownUrl":"https://www.flipkart.com/",
+    "dynamicDropDownMyntraUrl":"https://www.myntra.com/",
+    "textVerificationUrl":"https://accounts.google.com",
+    "textVerificationOrangeHRMUrl":"https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
+
+
+}

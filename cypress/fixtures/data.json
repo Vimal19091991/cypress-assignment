@@ -1,0 +1,8 @@
+{
+    "validusername":"student",
+    "validpassword":"Password123",
+
+    "invalidusername":"student1111",
+    "invalidpassword":"Password123111111"
+
+}
