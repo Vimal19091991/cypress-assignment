@@ -8,7 +8,7 @@ describe('Handle Alerts ',()=> {
     beforeEach(()=>{
         cy.on('uncaught:exception',()=>
         {
-            return false
+            return true
         })
     })
        // test case 1
