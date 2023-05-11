@@ -13,7 +13,7 @@ describe('verify web tables',()=>{
         // visit website
         cy.visit(url.webTablesUrl)
           // get table
-        webtables.getTable().each(($el,index,$list)=>{
+        webtables.getTable().each(($el ,index,$list)=>{
             // text captured from column
             const t=$el.text()
             if(t.includes('Michael')){
